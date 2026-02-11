@@ -1,6 +1,3 @@
-# Bagi-berbagi
-Bersama membangun negeri
-
 # Nge-SpriteSheet
 
 Addon Blender untuk membuat sprite sheet dari image sequence dengan grid otomatis atau custom.
