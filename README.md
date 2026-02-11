@@ -56,7 +56,7 @@ File akan tersimpan di folder yang sama dengan format <Nama Folder>_Spritesheet
 
 ---
 
-## 🧠 Dibuat Oleh
+## Dibuat Oleh
 
 Run-D
 
